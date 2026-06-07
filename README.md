@@ -15,4 +15,4 @@ I regularly work with these languages:
 - Dax
 
 In order to test the inclusion of a photograph, I am including the photo I generated using ChatGPT which is the future of the planet.
-![Future Planet](ChatGPT Image Jun 7, 2026, 12_36_18 PM.png)
+![Future Planet](./ChatGPT%20Image%20Jun%207,%202026,%2012_36_18%20PM.png)
